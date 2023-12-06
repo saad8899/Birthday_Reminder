@@ -29,4 +29,16 @@ export   const data = [
         age:'29',
         image:'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883334/person-1_rfzshl.jpg',
     },
+    {
+        id:6,
+        name:'Saad',
+        age:'29',
+        image:'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883334/person-1_rfzshl.jpg',
+    },
+    {
+        id:7,
+        name:'Mahad',
+        age:'25',
+        image:'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883334/person-1_rfzshl.jpg',
+    },
 ]
